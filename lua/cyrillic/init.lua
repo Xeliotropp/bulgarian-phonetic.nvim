@@ -1,9 +1,9 @@
--- Author: nrv
--- Version: 1.0
+-- Author: Svetoslav (aka Xeliotrop)
+-- Version: 0.1
 -- License: GPLv3
--- URL: http://github.com/nativerv/cyrillic.nvim
+-- URL: http://github.com/nativerv/bulgarian-phonetic.nvim
 -- Description: Adds some support for Cyrillic keyboard
---              layouts (Ukrainian, Russian) in Neovim
+--              layouts (Bulgarian Phonetic) in Neovim
 
 -- if !exists('g:no_plugin_maps') && !exists('g:no_ruscmd_maps')
 local M = {}
