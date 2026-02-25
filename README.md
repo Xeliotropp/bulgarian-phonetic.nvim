@@ -1,4 +1,4 @@
-# `cyrillic.nvim`
+# `bulgarian-phonetic.nvim`
 
 ## Description
 
